@@ -1,41 +1,47 @@
 <!-- Headings -->
+
 # Heading 1
 ## heading 2
 ###### Heading 6
 
 <!-- Italics -->
-
+## Italics
 *This is italic*
 
 _This is italic_
 
 <!-- Strong -->
+## Strong
 
 **This is strong**
 
 __This is strong__
 
 <!-- Strikethrough -->
-
+## Strikethrough
 ~~This is strikethrough~~
 
 <!-- Horizontal Rule -->
+## Horizontal Rule
 
 ---
 
 ___
 
 <!-- Blockquote -->
+## Blockquote
 
 > This is a quote
 
 <!-- Links -->
+## Links
 
 [Google](https://www.google.com)
 
 [Google](https://www.google.com "Google")
 
 <!-- UL -->
+## UL
 
 * Item 1
 * Item 2
@@ -45,21 +51,28 @@ ___
   * Nested Item 2
 
 <!-- OL -->
+## OL
 
 1. Item 1
 1. Item 2
 1. Item 3
 
 <!-- Inline Code Block -->
+## Inline Code Block
+
 
 `<p>This is a paragraph</p>`
+
 <!-- Images -->
+## Images
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Github Markdown -->
+## Github Markdown
 
 <!-- Code Blocks -->
+### Code Blocks
 
 ```bash
 
@@ -85,6 +98,7 @@ def add(num1, num2):
 ```
 
 <!-- Tables -->
+### Tables
 
 | Name | Email |
 | ---- | ----- |
@@ -92,6 +106,7 @@ def add(num1, num2):
 | Jane Doe | jane@gmail.com |
 
 <!-- Task Lists -->
+### Task Lists
 
 * [x] Task 1
 
@@ -100,6 +115,7 @@ def add(num1, num2):
 * [ ] Task 3
 
 <!-- Links -->
+### Links
 
 [Back To The Top](#markdown)
 
